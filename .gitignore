@@ -1,0 +1,25 @@
+# ADDED: Python
+__pycache__/
+*.py[cod]
+
+# ADDED: virtual environments
+.venv/
+venv/
+
+# ADDED: Jupyter temporary files
+.ipynb_checkpoints/
+
+# ADDED: local VS Code settings
+.vscode/
+
+# ADDED: raw Stanford Cars dataset
+data/
+data.zip
+
+# ADDED: trained TensorFlow/Keras binaries
+*.keras
+*.h5
+
+# ADDED: OS files
+.DS_Store
+Thumbs.db
